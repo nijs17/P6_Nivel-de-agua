@@ -186,7 +186,7 @@ delay (2000);
     2. Realizar las conexiones mostradas en la imagen anterior.
     
     3. Mover la sencibilidad del ultrazonico para simular el nivel del agua y asi poder visualizar sus diferentes estados del detector de nivel, como se muestra en la siguiente imagen.
-    ![]()
+    ![](https://github.com/nijs17/P6_Nivel-de-agua/blob/main/l2.png)
     
 ## RESUSLTADOS
 Al finalizar tendremos uns detector de nivel que nos mostrara el nivel de nuestro tinaco con LEDS que indican de manera visual el porcentaje de agua que tiene nuestro deposito.
