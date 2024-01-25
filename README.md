@@ -175,7 +175,7 @@ delay (2000);
 }
 
 2. Hacer las conexiones de la tarjeta con los demas elementos, anteriormente mensionados, como se muestra en la siguente imagen. 
- ![]()
+ ![](https://github.com/nijs17/P6_Nivel-de-agua/blob/main/l1.png)
 
 
 ## INSTRUCCIONES DE OPERACION 
